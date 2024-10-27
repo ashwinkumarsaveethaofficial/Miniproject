@@ -64,7 +64,9 @@ IDE: VSCode as the Integrated Development Environment for coding, debugging, and
 Additional Dependencies: Includes scikit-learn, TensorFlow (version 2.4.1), TensorFlow GPU, OpenCV, and Flask for the web application.
 <!--Embed the system architecture diagram as shown below-->
 
-![Screenshot 2023-11-25 133637](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/a60c11f3-0a11-47fb-ac89-755d5f45c995)
+## System architecture
+![d341c26f528972f143fa3733be34bcb5d3cc6535 1](https://github.com/user-attachments/assets/3eb13109-a7e2-449b-a20e-9d166de3c648)
+
 
 
 ## Output
@@ -72,24 +74,32 @@ Additional Dependencies: Includes scikit-learn, TensorFlow (version 2.4.1), Tens
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Name of the output
 
-![Screenshot 2023-11-25 134037](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/8c2b6b5c-5ed2-4ec4-b18e-5b6625402c16)
+![80d7329804c28210c1ab6714b4387f72316f7f8a 1](https://github.com/user-attachments/assets/b0fc6975-326a-4687-b961-842a12a6cebb)
+
 
 #### Output2 - Name of the output
-![Screenshot 2023-11-25 134253](https://github.com/<<yourusername>>/Hand-Gesture-Recognition-System/assets/75235455/5e05c981-05ca-4aaa-aea2-d918dcf25cb7)
+![4fd0980b27327bc94e6dc6d86d3b62e31f8d40e6 1](https://github.com/user-attachments/assets/4e9de903-bb39-48fc-bea1-1e5e24807a54)
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+
 
 
 ## Results and Impact
-<!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
+The Personalized Crop Recommendation System revolutionizes the way users manage agricultural decisions, providing an innovative tool for accurate crop selection and personalized farming advice. The integration of advanced machine learning models ensures precise and reliable predictions based on user-input data such as soil type, climate, and water availability, enhancing user confidence in crop management.
 
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+This project showcases the powerful combination of machine learning and agriculture, paving the way for more intuitive and personalized crop recommendations. By tailoring crop selection, fertilizer usage, and pest management strategies to specific conditions, it promotes better yields and encourages sustainable farming practices.
+
+Furthermore, the system’s continuous improvement mechanism ensures that it evolves with more data, offering increasingly accurate and relevant recommendations over time. This project represents a significant step forward in digital agriculture, contributing to a more productive and sustainable farming ecosystem.
 
 ## Articles published / References
-1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
-2. A. A. BIN ZAINUDDIN, “Enhancing IoT Security: A Synergy of Machine Learning, Artificial Intelligence, and Blockchain”, Data Science Insights, vol. 2, no. 1, Feb. 2024.
+[1] Kumar, A., & Jain, S. (2020). "Smart Crop Recommendation System using Machine Learning." International Journal of Advanced Research in Computer Science, 11(5), 31-35.
+
+[2] Sharma, P., & Singh, S. (2021). "A Survey of Machine Learning Techniques for Crop Recommendation System." Journal of Agricultural Informatics, 12(1), 1-15.
+
+[3] Thakur, M. S., & Ghosh, A. (2021). "Crop Prediction and Recommendation System using Machine Learning." International Journal of Computer Applications, 975, 1-5.
+
+[4] Kaur, G., & Kumar, M. (2022). "A Hybrid Model for Crop Recommendation using Data Mining Techniques." Procedia Computer Science, 192, 235-243.
+
+[5] Sinai, D., & Bansal, P. (2020). "Predicting Crop Yield and Recommendation System using Machine Learning Techniques." Journal of King Saud University - Computer and Information Sciences.
 
 
 
